@@ -38,31 +38,40 @@ Promoção do seu trabalho, assim como apps de medicina e telemedicina (Doctoral
 
 ## Marcos
 
-Devemos entregar **pequenas versões frequentes**. A equipe deve definir os marcos do projeto (*milestones)*, definindo os prazos de entrega e quais funcionalidades serão implementados até o final de cada marco. No final de cada marco devemos distribuir uma nova versão do produto, pronta para produção.
+<!-- Devemos entregar **pequenas versões frequentes**. A equipe deve definir os marcos do projeto (*milestones)*, definindo os prazos de entrega e quais funcionalidades serão implementados até o final de cada marco. No final de cada marco devemos distribuir uma nova versão do produto, pronta para produção.
 
-Podemos pensar nessas pequenas versões como MVPs (do inglês, *minimum viable product*). MVP é a versão mais simples de um produto que pode ser disponibilizada para a validação de um pequeno conjunto de hipóteses sobre o negócio. Após ser **construído,** o MVP é colocado à prova. Com isso, teremos dados que possibilitam **medir** o seu uso e, portanto, gerar o **aprendizado** desejado (Caroli, 2018).
+Podemos pensar nessas pequenas versões como MVPs (do inglês, *minimum viable product*). MVP é a versão mais simples de um produto que pode ser disponibilizada para a validação de um pequeno conjunto de hipóteses sobre o negócio. Após ser **construído,** o MVP é colocado à prova. Com isso, teremos dados que possibilitam **medir** o seu uso e, portanto, gerar o **aprendizado** desejado (Caroli, 2018). -->
 
-### Marco 1 - 20/12/2022
+### Marco 1 - Iremos solucionar a falta de informações para gestantes, incluindo início da gestação, procedimentos necessários e orientações médicas.
 
-Acreditamos que esse `Marco 1` vai conseguir `resultado esperado`. Saberemos que isso aconteceu com base em `métricas para validar a hipótese do negócio`.
+<!-- Acreditamos que esse `Marco 1` vai conseguir `resultado esperado`. Saberemos que isso aconteceu com base em `métricas para validar a hipótese do negócio`. -->
 
 #### Funcionalidades
 
-- [x] Funcionalidade 1.
-- [x] Funcionalidade 2.
-- [x] Funcionalidade 3.
+- [x] Funcionalidade 1: Criação de páginas com textos sobre saúde da gestante e informações sobre o processo de gravidez.
+- [x] Funcionalidade 2. Desenvolvimento de um recurso visual para que a gestante acompanhe o tamanho do feto em cada período da gestação.
+- [x] Funcionalidade 3. Criação de páginas para que os profissionais publiquem artigos e informações, sejam eles gratuitos ou pagos.
 
 [Release Notes ](release_notes_1.md)
 
-### Marco 2 - 20/01/2023
+### Marco 2 - Iremos resolver a carência de informações de especialistas da área da saúde.
 
-Acreditamos que esse `Marco 1` vai conseguir `resultado esperado`. Saberemos que isso aconteceu com base em `métricas para validar a hipótese do negócio`.
+<!-- Acreditamos que esse `Marco 1` vai conseguir `resultado esperado`. Saberemos que isso aconteceu com base em `métricas para validar a hipótese do negócio`. -->
 
 #### Funcionalidades 
 
-- [x] Funcionalidade 1.
-- [x] Funcionalidade 2.
-- [ ] Funcionalidade 3.
+- [x] Funcionalidade 1: Criação de um fórum para que as gestantes que utilizam o aplicativo possam se comunicar com outras gestantes e obter a opinião de especialistas sobre o assunto.
+- [x] Funcionalidade 2: Implementação de um sistema de verificação dos especialistas para garantir que apenas profissionais qualificados possam compartilhar informações.
+- [ ] Funcionalidade 3: 
+
+### Marco 3 - Iremos abordar o problema de profissionais de saúde não credenciados.
+
+<!-- Acreditamos que esse `Marco 1` vai conseguir `resultado esperado`. Saberemos que isso aconteceu com base em `métricas para validar a hipótese do negócio`. -->
+
+#### Funcionalidades 
+
+- [x] Funcionalidade 1: Implementação de verificação para verificar as credenciais do especialista
+- [x] Funcionalidade 2: 
 
 [Release Notes ](release_notes_1.md)
 
@@ -107,9 +116,11 @@ Stakeholder 2 <br />
 ## Equipe
 
 Membro 1 <br />
-*Gerente de Projeto* <br />
+*Desenvolvedor Back-End* <br />
 *E-mail* <br />
-https://github.com/edgebr
+djs@ic.ufal.br
+*Github* <br />
+https://github.com/silvadaniell
 
 Membro 2 <br />
 *Desenvolvedor Sênior* <br />
